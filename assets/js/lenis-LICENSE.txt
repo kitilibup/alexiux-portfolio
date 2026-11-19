@@ -1,0 +1,3 @@
+lenis 1.1.13 — https://github.com/darkroomengineering/lenis
+MIT License. Copyright (c) 2024 darkroom.engineering
+Self-hosted copy of https://unpkg.com/lenis@1.1.13/dist/lenis.min.js (unmodified).

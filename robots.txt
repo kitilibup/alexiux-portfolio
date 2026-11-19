@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# The CMS is not content and should never be indexed.
+Disallow: /admin/
+
+Sitemap: https://alexiux.com/sitemap.xml
